@@ -2,7 +2,7 @@
 A Python program designed to detect human faces in images and organize them into a portrait album.
 
 
-The program utilizes the MediaPipe framework and its face detection model to identify and locate human faces accurately. Please note that this program is not intended for commercial use.
+The program utilizes the MediaPipe framework and its face detection model to identify and locate human faces accurately. This program is specifically developed for Windows and Android users(me) who do not have access to built-in portrait album creation features available on iPhone or Mac systems. Please note that this program is not intended for commercial use.
 
 ## Table of Contents
 
