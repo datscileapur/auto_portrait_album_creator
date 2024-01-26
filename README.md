@@ -8,6 +8,8 @@ The program utilizes the MediaPipe framework and its face detection model to ide
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
+- [ReadMore](#readmore)
+
 
 
 ## Features
@@ -26,3 +28,7 @@ Before running the program, make sure you have the following dependencies instal
 - os
 - matplotlib.pyplot
 - shutil
+
+## ReadMore
+
+- https://developers.google.com/mediapipe/solutions/vision/face_detector
